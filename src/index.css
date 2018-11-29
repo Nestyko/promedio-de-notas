@@ -12,3 +12,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.simple-table, .simple-table > td{
+  border: solid white 1px;
+}
+
+.highlight{
+  color: white;
+  background: black;
+}
